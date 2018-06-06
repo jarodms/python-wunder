@@ -1,0 +1,5 @@
+# Rename me to myconfig.py
+
+access_token = 'YOUR_ACCESS_TOKEN'
+client_id = 'YOUR_CLIENT_ID'
+list_id = YEP
